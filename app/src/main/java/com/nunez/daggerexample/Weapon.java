@@ -5,5 +5,5 @@ package com.nunez.daggerexample;
  */
 
 public interface Weapon {
-  String Hit();
+  String hit();
 }

@@ -17,6 +17,6 @@ public class RogueWarrior implements Warrior{
 
   @Override
   public String useWeapon() {
-    return weapon.Hit();
+    return weapon.hit();
   }
 }

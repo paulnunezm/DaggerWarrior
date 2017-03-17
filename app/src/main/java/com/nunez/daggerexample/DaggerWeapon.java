@@ -16,7 +16,7 @@ public class DaggerWeapon implements Weapon {
   }
 
   @Override
-  public String Hit() {
+  public String hit() {
     return hitSound;
   }
 }
